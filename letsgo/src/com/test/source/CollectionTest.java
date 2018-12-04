@@ -8,5 +8,5 @@ import java.util.concurrent.ThreadPoolExecutor;
 public class CollectionTest {
 	int i = 0;
 	CopyOnWriteArrayList<Integer> test = new CopyOnWriteArrayList<Integer>();
-	int a = 0;
+	int a = 2;
 }
